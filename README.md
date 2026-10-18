@@ -26,3 +26,8 @@ Total Sales Change: 62.0 million
 ## Limitations
 
 The sales data is entered directly in the program. The program does not ask the user to enter new data.
+
+## Video Presentation
+
+Watch my Sales Analysis video presentation here: 
+https://1drv.ms/v/c/fffb405ca0af548c/IQCKxHfAS4-BRZjf0JkDnOcWAbhWkfbOtOWJUlAyscegnak?e=Vm80d1
